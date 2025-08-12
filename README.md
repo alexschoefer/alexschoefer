@@ -2,9 +2,6 @@
 <p align="left">I´m Alex,<br><br>from IT Process Specialist to Fullstack Developer – Learning, Building, Evolving</p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/alexschoefer/alexschoefer/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
