@@ -1,4 +1,4 @@
-<p align="left">I´m Alex,<br><br>from IT Process Specialist to Fullstack Developer – Learning, Building, Evolving</p>
+<h2 align="left">I´m Alex,<br><br>from IT Process Specialist to Fullstack Developer – Learning, Building, Evolving</h2>
 
 ###
 
