@@ -75,7 +75,7 @@ I enjoy building clean, user-friendly applications and continuously improving my
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/alexander-schöfer-379352161/)" target="_blank">
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
