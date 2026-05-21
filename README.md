@@ -16,10 +16,10 @@ I enjoy building clean, user-friendly applications and continuously improving my
 
 # 💻 Tech Stack
 
-## 🎨 Frontend Skills
+## Frontend Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,figma" />
 </p>
 
 ### Frontend Focus
@@ -32,7 +32,7 @@ I enjoy building clean, user-friendly applications and continuously improving my
 
 ---
 
-## ⚙️ Backend Skills
+## Backend Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,firebase,postgres,docker" />
@@ -65,7 +65,7 @@ I enjoy building clean, user-friendly applications and continuously improving my
 
 ## 📚 Currently Learning
 
-- Advanced TypeScript  
+- Advanced C# 
 - Clean Code Principles  
 - Scalable Backend Structures  
 - Cloud & Deployment Workflows  
@@ -81,8 +81,3 @@ I enjoy building clean, user-friendly applications and continuously improving my
 </p>
 
 ---
-
-## 📈 GitHub Philosophy
-
-```txt
-Code. Learn. Improve. Repeat.
