@@ -1,25 +1,88 @@
-<h2 align="left">I´m Alex,<br><br>from IT Process Specialist to Fullstack Developer – Learning, Building, Evolving</h2>
+# 👋 Hi, I'm Alex
 
-###
+### From IT Process Specialist to Fullstack Developer  
+🚀 Learning • Building • Evolving
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alexander-schöfer-379352161/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+After several years working as an IT Process Specialist,  
+I successfully completed a **Fullstack Developer Weiterbildung** and expanded my expertise in modern web technologies.
+
+I enjoy building clean, user-friendly applications and continuously improving my development skills through practical projects and learning-by-doing.
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,sass,figma" />
+</p>
+
+### Frontend Focus
+- Responsive Web Design  
+- Single Page Applications (SPA)  
+- Modern JavaScript & TypeScript  
+- Component-Based Architecture  
+- UI/UX Design Principles  
+- API Integration  
+
+---
+
+## ⚙️ Backend Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,firebase,postgres,docker" />
+</p>
+
+### Backend Focus
+- REST API Development  
+- Authentication & Authorization  
+- Database Management  
+- Backend Architecture Basics  
+- CRUD Applications  
+- Containerization with Docker  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### Additional Tools
+- Git & GitHub Workflow  
+- Linux Basics  
+- Agile / Scrum Fundamentals  
+- Debugging & Troubleshooting  
+- Project Documentation  
+
+---
+
+## 📚 Currently Learning
+
+- Advanced TypeScript  
+- Clean Code Principles  
+- Scalable Backend Structures  
+- Cloud & Deployment Workflows  
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-</div>
+</p>
 
-###
+---
+
+## 📈 GitHub Philosophy
+
+```txt
+Code. Learn. Improve. Repeat.
