@@ -65,17 +65,17 @@ I enjoy building clean, user-friendly applications and continuously improving my
 
 ## 📚 Currently Learning
 
-- Advanced C# 
+- Exploring Advanced C# and modern software architecture to strengthen my fullstack development skills
 - Clean Code Principles  
 - Scalable Backend Structures  
-- Cloud & Deployment Workflows  
+- Currently learning deployment workflows, containerization with Docker, and CI/CD fundamentals.
 
 ---
 
 ## 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/alexander-schöfer-379352161/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
