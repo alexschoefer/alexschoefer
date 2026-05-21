@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-After several years working as an IT Process Specialist including IT Projectmanagent,  
+After several years working as an IT Process Specialist including IT Projectmanagement,  
 I successfully completed a **Fullstack Developer continuing Education** at the Developer Akademie (Munich) and expanded my expertise in modern web technologies.
 
 I enjoy building clean, user-friendly applications and continuously improving my development skills through practical projects and learning-by-doing.
