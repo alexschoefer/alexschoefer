@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 After several years working as an IT Process Specialist,  
-I successfully completed a **Fullstack Developer Weiterbildung** and expanded my expertise in modern web technologies.
+I successfully completed a **Fullstack Developer continuing Education** at Developer Akademie (Munich) and expanded my expertise in modern web technologies.
 
 I enjoy building clean, user-friendly applications and continuously improving my development skills through practical projects and learning-by-doing.
 
