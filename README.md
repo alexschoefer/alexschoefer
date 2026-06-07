@@ -65,7 +65,7 @@ I enjoy building clean, user-friendly applications and continuously improving my
 
 ## 📚 Currently Learning
 
-- Exploring Advanced C# and modern software architecture to strengthen my fullstack development skills
+- Exploring Advanced Java and modern software architecture to strengthen my fullstack development skills
 - Clean Code Principles  
 - Scalable Backend Structures  
 - Currently learning deployment workflows, containerization with Docker, and CI/CD fundamentals.
